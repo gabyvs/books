@@ -1,0 +1,20 @@
+{
+  "appName": "books",
+  "vendors": [
+    "reflect-metadata",
+    "es6-shim",
+    "zone.js",
+    "rxjs",
+    "lodash",
+    "moment",
+    "@angular/common",
+    "@angular/compiler",
+    "@angular/core",
+    "@angular/forms",
+    "@angular/http",
+    "@angular/platform-browser",
+    "@angular/platform-browser-dynamic"
+  ],
+  "devEntryFile": "./app/main.ts",
+  "prodEntryFile": "./app/main-build.ts"
+}
